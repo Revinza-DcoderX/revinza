@@ -1,0 +1,13 @@
+{
+  "name": "dark-vader-bot-otp",
+  "version": "1.0.0",
+  "description": "Bot Telegram + WhatsApp pairing via OTP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "telegraf": "^4.16.3"
+  }
+}
